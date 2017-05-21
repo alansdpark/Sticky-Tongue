@@ -1,0 +1,864 @@
+fileFormatVersion: 2
+guid: e6bd176dc039df349b6b71062495a874
+timeCreated: 1491626304
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FrogArt_0
+    21300002: FrogArt_1
+    21300004: FrogArt_2
+    21300006: FrogArt_3
+    21300008: FrogArt_4
+    21300010: FrogArt_5
+    21300012: FrogArt_13
+    21300014: FrogArt_14
+    21300016: FrogArt_19
+    21300018: FrogArt_26
+    21300020: FrogArt_27
+    21300022: FrogArt_28
+    21300024: FrogArt_29
+    21300026: FrogArt_30
+    21300028: FrogArt_31
+    21300030: FrogArt_32
+    21300032: FrogArt_33
+    21300034: FrogArt_34
+    21300036: FrogArt_35
+    21300038: FrogArt_36
+    21300040: FrogArt_37
+    21300042: FrogArt_38
+    21300044: FrogArt_39
+    21300046: FrogArt_44
+    21300048: FrogArt_45
+    21300050: FrogArt_46
+    21300052: FrogArt_47
+    21300054: FrogArt_48
+    21300056: FrogArt_49
+    21300058: FrogArt_50
+    21300060: FrogArt_51
+    21300062: FrogArt_55
+    21300064: FrogArt_57
+    21300066: FrogArt_58
+    21300068: FrogArt_59
+    21300070: FrogArt_60
+    21300072: FrogArt_61
+    21300074: FrogArt_62
+    21300076: FrogArt_63
+    21300078: FrogArt_64
+    21300080: FrogArt_65
+    21300082: FrogArt_66
+    21300084: FrogArt_67
+    21300086: FrogArt_68
+    21300088: FrogArt_69
+    21300090: FrogArt_70
+    21300092: FrogArt_71
+    21300094: FrogArt_72
+    21300096: FrogArt_73
+    21300098: FrogArt_75
+    21300100: FrogArt_76
+    21300102: FrogArt_77
+    21300104: FrogArt_78
+    21300106: FrogArt_79
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 20
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FrogArt_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 378
+        width: 132
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 378
+        width: 132
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_2
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 378
+        width: 132
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_3
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 378
+        width: 132
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_4
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 377
+        width: 132
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_5
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 310
+        width: 570
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_13
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 242
+        width: 201
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_14
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 256
+        width: 132
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_19
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 255
+        width: 186
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_26
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 209
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_27
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 209
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_28
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 217
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_29
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 180
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_30
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 180
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_31
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 180
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_32
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 180
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_33
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 180
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_34
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 180
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_35
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 180
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_36
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 180
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_37
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 180
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_38
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 180
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_39
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 180
+        width: 122
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_44
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 5
+        width: 5
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_45
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 5
+        width: 5
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_46
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 133
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_47
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 133
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_48
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 112
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_49
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 119
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_50
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 129
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_51
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 121
+        width: 122
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_55
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 5
+        width: 5
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_57
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 5
+        width: 5
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_58
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 5
+        width: 5
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_59
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 5
+        width: 5
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_60
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 5
+        width: 5
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_61
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 31
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_62
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 50
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_63
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 50
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_64
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 51
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_65
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 58
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_66
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 68
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_67
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 38
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_68
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 38
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_69
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 5
+        width: 5
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_70
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 5
+        width: 5
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_71
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 5
+        width: 5
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_72
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 5
+        width: 5
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_73
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 19
+        width: 112
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_75
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 5
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_76
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_77
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 5
+        width: 5
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_78
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 5
+        width: 5
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrogArt_79
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 5
+        width: 5
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
